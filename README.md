@@ -9,7 +9,7 @@ My main focus areas include blockchain technologies, especially Proof of Stake m
 I am motivated to develop my skills, gain practical experience, and build a career in the tech industry.
 I am eager to contribute to innovative, technology-driven projects and real-world solutions ⚙️✨
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 🛠️ Technical Skills
 	•	🌐 Web Development: HTML5, CSS3, JavaScript (ES6+), React

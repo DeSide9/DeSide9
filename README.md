@@ -18,3 +18,4 @@ I am eager to contribute to innovative, technology-driven projects and real-worl
  🗄️ Databases: SQL (queries, joins, aggregations)
  ⛓️ Blockchain: Blockchain fundamentals, Proof of Stake, smart contract concepts
  🔧 Tools: Git, REST APIs, frontend tooling
+UKRAINE🇺🇦

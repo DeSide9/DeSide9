@@ -12,8 +12,9 @@ I am eager to contribute to innovative, technology-driven projects and real-worl
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 🛠️ Technical Skills
-	•	🌐 Web Development: HTML5, CSS3, JavaScript (ES6+), React
-	•	⚙️ Programming: JavaScript, basic Python
-	•	🗄️ Databases: SQL (queries, joins, aggregations)
-	•	⛓️ Blockchain: Blockchain fundamentals, Proof of Stake, smart contract concepts
-	•	🔧 Tools: Git, REST APIs, frontend tooling
+
+ 🌐 Web Development: HTML5, CSS3, JavaScript (ES6+), React
+ ⚙️ Programming: JavaScript, basic Python
+ 🗄️ Databases: SQL (queries, joins, aggregations)
+ ⛓️ Blockchain: Blockchain fundamentals, Proof of Stake, smart contract concepts
+ 🔧 Tools: Git, REST APIs, frontend tooling
